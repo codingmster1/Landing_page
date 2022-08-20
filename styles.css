@@ -109,3 +109,8 @@ p
     max-width:65%;
     max-height:auto;
 }
+
+.print
+{
+    background-color:black;
+}
